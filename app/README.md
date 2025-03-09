@@ -98,7 +98,7 @@ Start the backend server:
 bash
 Copy
 npm start
-The backend will run on http://localhost:5000.
+The backend will run on http://localhost:7070.
 
 2. Frontend Setup
 Navigate to the frontend directory:
